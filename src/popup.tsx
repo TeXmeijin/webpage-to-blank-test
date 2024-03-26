@@ -11,3 +11,12 @@ function IndexPopup() {
 }
 
 export default IndexPopup
+
+// const resp = await sendToBackground({
+//   name: "ping",
+//   body: {
+//     id: 123
+//   }
+// })
+//
+// console.log(resp)
